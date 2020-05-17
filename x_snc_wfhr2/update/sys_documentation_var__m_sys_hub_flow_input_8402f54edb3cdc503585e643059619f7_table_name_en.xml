@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="wednesday" label="Wednesday" language="en" table="x_snc_wfhr2_work_from_home_request">
+    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_8402f54edb3cdc503585e643059619f7">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>wednesday</element>
+            <element>table_name</element>
             <help/>
             <hint/>
-            <label>Wednesday</label>
+            <label>Table Name</label>
             <language>en</language>
-            <name>x_snc_wfhr2_work_from_home_request</name>
-            <plural>Wednesdays</plural>
+            <name>var__m_sys_hub_flow_input_8402f54edb3cdc503585e643059619f7</name>
+            <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>james.tandy</sys_created_by>
-            <sys_created_on>2020-05-17 02:22:02</sys_created_on>
-            <sys_id>baed35cedb7cdc503585e6430596199a</sys_id>
+            <sys_created_on>2020-05-17 03:30:35</sys_created_on>
+            <sys_id>acd3bdcedb3cdc503585e643059619d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Wednesday</sys_name>
+            <sys_name>Table Name</sys_name>
             <sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
             <sys_policy/>
             <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_wfhr2_work_from_home_request_wednesday_en</sys_update_name>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_8402f54edb3cdc503585e643059619f7_table_name_en</sys_update_name>
             <sys_updated_by>james.tandy</sys_updated_by>
-            <sys_updated_on>2020-05-17 02:22:02</sys_updated_on>
+            <sys_updated_on>2020-05-17 03:30:35</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
