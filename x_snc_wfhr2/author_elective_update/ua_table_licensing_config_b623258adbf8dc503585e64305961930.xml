@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_wfhr2_1589681867428</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>james.tandy</sys_created_by>
+        <sys_created_on>2020-05-17 02:17:49</sys_created_on>
+        <sys_id>b623258adbf8dc503585e64305961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wfhr2_1589681867428</sys_name>
+        <sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
+        <sys_update_name>ua_table_licensing_config_b623258adbf8dc503585e64305961930</sys_update_name>
+        <sys_updated_by>james.tandy</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:17:49</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</application>
+        <file_path/>
+        <instance_id>67862255dbb967000ae3ac44d49619d0</instance_id>
+        <instance_name>siapjdev</instance_name>
+        <name>ua_table_licensing_config_b623258adbf8dc503585e64305961930</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_snc_wfhr2_1589681867428</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>james.tandy</sys_created_by><sys_created_on>2020-05-17 02:17:49</sys_created_on><sys_id>b623258adbf8dc503585e64305961930</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_wfhr2_1589681867428</sys_name><sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package><sys_policy/><sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope><sys_update_name>ua_table_licensing_config_b623258adbf8dc503585e64305961930</sys_update_name><sys_updated_by>james.tandy</sys_updated_by><sys_updated_on>2020-05-17 02:17:49</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>782749452</payload_hash>
+        <record_name>x_snc_wfhr2_1589681867428</record_name>
+        <reverted_from/>
+        <source>11d26d4adbf8dc503585e64305961918</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>james.tandy</sys_created_by>
+        <sys_created_on>2020-05-17 02:17:49</sys_created_on>
+        <sys_id>fa23258adbf8dc503585e64305961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172206c546b0000001</sys_recorded_at>
+        <sys_updated_by>james.tandy</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:17:49</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>f223258ac1f8dc500c9a2c08debf2732</update_guid>
+        <update_guid_history>f223258ac1f8dc500c9a2c08debf2732:782749452</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>james.tandy</sys_created_by>
+        <sys_created_on>2020-05-17 02:23:47</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>145af21471164cbd8e6ee70591c6a599</sys_id>
+        <sys_metadata>b623258adbf8dc503585e64305961930</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wfhr2_1589681867428</sys_name>
+        <sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
+        <sys_scope_delete display_value="">11b68d4d7bf44254a0a2bbd7e205aa90</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_b623258adbf8dc503585e64305961930</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_b623258adbf8dc503585e64305961930">fa23258adbf8dc503585e64305961932</sys_update_version>
+        <sys_updated_by>james.tandy</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:23:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

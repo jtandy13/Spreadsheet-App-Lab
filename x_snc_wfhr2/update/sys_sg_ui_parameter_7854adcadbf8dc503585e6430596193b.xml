@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Work From Home Request)">b854adcadbf8dc503585e64305961933</button>
+        <button_parent_table>x_snc_wfhr2_work_from_home_request</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>tuesday</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Tuesday</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>tuesday</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>james.tandy</sys_created_by>
+        <sys_created_on>2020-05-17 02:22:53</sys_created_on>
+        <sys_id>7854adcadbf8dc503585e6430596193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tuesday</sys_name>
+        <sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_7854adcadbf8dc503585e6430596193b</sys_update_name>
+        <sys_updated_by>james.tandy</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:22:53</sys_updated_on>
+        <table_name>x_snc_wfhr2_work_from_home_request</table_name>
+    </sys_sg_ui_parameter>
+</record_update>

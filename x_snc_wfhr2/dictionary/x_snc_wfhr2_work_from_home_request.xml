@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Work From Home Request" max_length="40" name="x_snc_wfhr2_work_from_home_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Friday" max_length="40" name="friday" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Monday" max_length="40" name="monday" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="requested" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" value="rejected"/>
+                <element inactive_on_update="false" label="Requested" value="requested"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Thursday" max_length="40" name="thursday" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Tuesday" max_length="40" name="tuesday" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Wednesday" max_length="40" name="wednesday" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

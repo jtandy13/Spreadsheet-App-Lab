@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Work From Home Request">ec542dcadbf8dc503585e643059619a4</applet_launcher>
+        <icon display_value="Home Work From Home Request">24542dcadbf8dc503585e643059619a6</icon>
+        <label>Work From Home Request</label>
+        <roles>x_snc_wfhr2.requester,x_snc_wfhr2.approver</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>james.tandy</sys_created_by>
+        <sys_created_on>2020-05-17 02:22:52</sys_created_on>
+        <sys_id>e0542dcadbf8dc503585e643059619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work From Home Request</sys_name>
+        <sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_e0542dcadbf8dc503585e643059619a6</sys_update_name>
+        <sys_updated_by>james.tandy</sys_updated_by>
+        <sys_updated_on>2020-05-17 02:22:52</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
