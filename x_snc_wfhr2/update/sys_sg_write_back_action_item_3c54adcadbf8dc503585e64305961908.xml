@@ -23,4 +23,5 @@
         <type>new</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
     </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=3c54adcadbf8dc503585e64305961908"/>
 </record_update>
