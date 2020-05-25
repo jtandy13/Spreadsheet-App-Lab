@@ -35,4 +35,5 @@
         <sys_updated_on>2020-05-17 02:22:53</sys_updated_on>
         <table_name>x_snc_wfhr2_work_from_home_request</table_name>
     </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=3454adcadbf8dc503585e6430596191a"/>
 </record_update>

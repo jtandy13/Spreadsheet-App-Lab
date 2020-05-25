@@ -66,7 +66,7 @@
         <update_guid_history>0723258a8ef8dc50657e713781bcc58c:1851961576</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Wfhr2 1589681867428">2584650edbf8dc503585e64305961965</sys_audit_delete>
+        <sys_audit_delete display_value="">2584650edbf8dc503585e64305961965</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>james.tandy</sys_created_by>
         <sys_created_on>2020-05-17 02:23:45</sys_created_on>

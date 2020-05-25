@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
     <sys_sg_form_screen action="INSERT_OR_UPDATE">
-        <application_roles/>
         <available_offline>false</available_offline>
         <data_item/>
         <description/>
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Bag">ac542dcadbf8dc503585e643059619a3</icon>
         <item_view display_value="Work From Home Request Detail Screen Item View">24542dcadbf8dc503585e643059619aa</item_view>
         <name>Work From Home Request Form Screen</name>
-        <order/>
-        <parent/>
-        <parent_table/>
         <roles_override/>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>james.tandy</sys_created_by>
@@ -30,4 +25,5 @@
         <sys_updated_on>2020-05-17 02:22:52</sys_updated_on>
         <table>x_snc_wfhr2_work_from_home_request</table>
     </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=e0546dcadbf8dc503585e643059619fc"/>
 </record_update>

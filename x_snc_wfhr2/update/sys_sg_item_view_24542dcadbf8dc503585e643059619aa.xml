@@ -20,4 +20,5 @@
         <table>x_snc_wfhr2_work_from_home_request</table>
         <ui_styles/>
     </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=24542dcadbf8dc503585e643059619aa"/>
 </record_update>
