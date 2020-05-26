@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c2146296db70d01082be468b3a9619b9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_wfhr2_work_from_home_request">
+    <x_snc_wfhr2_work_from_home_request action="INSERT_OR_UPDATE">
+        <friday>yes</friday>
+        <monday>no</monday>
+        <name display_value="Robyn Christophel">52826bf03710200044e0bfc8bcbe5dbf</name>
+        <number>WFHR0001008</number>
+        <status>rejected</status>
+        <sys_created_by>nick.elliott</sys_created_by>
+        <sys_created_on>2020-05-18 01:40:18</sys_created_on>
+        <sys_id>c2146296db70d01082be468b3a9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nick.elliott</sys_updated_by>
+        <sys_updated_on>2020-05-18 01:40:18</sys_updated_on>
+        <thursday>yes</thursday>
+        <tuesday>no</tuesday>
+        <wednesday>yes</wednesday>
+    </x_snc_wfhr2_work_from_home_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>james.tandy</sys_created_by>
+        <sys_created_on>2020-05-26 05:15:24</sys_created_on>
+        <sys_id>3712e4c91b0d9050ddc18483cc4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Robyn Christophel</sys_name>
+        <sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
+        <sys_update_name>sys_metadata_link_3712e4c91b0d9050ddc18483cc4bcb4f</sys_update_name>
+        <sys_updated_by>james.tandy</sys_updated_by>
+        <sys_updated_on>2020-05-26 05:15:24</sys_updated_on>
+        <tablename>x_snc_wfhr2_work_from_home_request</tablename>
+    </sys_metadata_link>
+</record_update>

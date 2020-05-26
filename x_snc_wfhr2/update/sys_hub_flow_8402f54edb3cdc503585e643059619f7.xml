@@ -27,6 +27,7 @@
         <sys_created_by>james.tandy</sys_created_by>
         <sys_created_on>2020-05-17 03:22:38</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>8402f54edb3cdc503585e643059619f7</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Process WFH Request</sys_name>
@@ -58,11 +59,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>20d3bdcedb3cdc503585e643059619e1</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>c645fbd6-d553-4394-b9ee-c4be6aababd0</ui_id>
@@ -161,11 +158,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>64d3bdcedb3cdc503585e643059619e7</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>eda343c7-12ad-43bd-a65c-31f811138823</ui_id>
@@ -240,7 +233,6 @@
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
         <action_type display_value="Update Employee WFH Schedule">9f48e8e41bbc1810fe5476e48d4bcb41</action_type>
         <action_type_parent/>
         <comment/>
@@ -254,29 +246,12 @@
         <sys_created_on>2020-05-17 03:47:59</sys_created_on>
         <sys_id>67c7b946db7cdc503585e643059619e2</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>f5d62d99-2911-4aa9-b46d-f464d60066d5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=67c7b946db7cdc503585e643059619e2"/>
-    <sys_element_mapping action="delete_multiple" query="id=67c7b946db7cdc503585e643059619e2"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>wfh_request_record</field>
-        <id>67c7b946db7cdc503585e643059619e2</id>
-        <sys_created_by>james.tandy</sys_created_by>
-        <sys_created_on>2020-05-17 03:47:59</sys_created_on>
-        <sys_id>afc7b946db7cdc503585e643059619e3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>james.tandy</sys_updated_by>
-        <sys_updated_on>2020-05-17 03:47:59</sys_updated_on>
-        <table>var__m_sys_hub_action_input_9f48e8e41bbc1810fe5476e48d4bcb41</table>
-        <value>{{Created_1.current}}</value>
-    </sys_element_mapping>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">e0d3bdcedb3cdc503585e643059619ef</block>
         <comment/>
@@ -298,11 +273,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>68d3bdcedb3cdc503585e643059619ef</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>b236bc87-5872-4360-bf7a-64db694dc963</ui_id>
@@ -365,11 +336,7 @@
         <sys_created_on>2020-05-17 03:50:43</sys_created_on>
         <sys_id>6b683986db7cdc503585e64305961979</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>611e441a-29b9-4fd3-8060-8538c96c8ee7</ui_id>
@@ -458,11 +425,7 @@
         <sys_created_on>2020-05-17 03:47:59</sys_created_on>
         <sys_id>afc7f946db7cdc503585e6430596190b</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>c7280842-cd89-430a-92bc-ffb0b553c219</ui_id>
@@ -528,11 +491,7 @@
         <sys_created_on>2020-05-17 03:48:00</sys_created_on>
         <sys_id>afc7f946db7cdc503585e64305961910</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>1c84482e-baa6-4b4d-b6e2-cf2b0228c0af</ui_id>
@@ -600,11 +559,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>ecd3bdcedb3cdc503585e643059619ea</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>9f77f5a9-a6f5-4f5c-a2c3-eb0370d30441</ui_id>
@@ -658,16 +613,11 @@
         <flow display_value="Process WFH Request">8402f54edb3cdc503585e643059619f7</flow>
         <name>Created</name>
         <remote_sys_id/>
-        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>james.tandy</sys_created_by>
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>6cd3bdcedb3cdc503585e643059619db</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
@@ -708,16 +658,11 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>8402f54edb3cdc503585e643059619f7</id>
         <name>Process WFH Request</name>
-        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>james.tandy</sys_created_by>
         <sys_created_on>2020-05-17 03:22:38</sys_created_on>
         <sys_id>c802f54edb3cdc503585e643059619f9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:22:38</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -901,11 +846,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>20d3bdcedb3cdc503585e643059619e1</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>c645fbd6-d553-4394-b9ee-c4be6aababd0</ui_id>
@@ -1004,11 +945,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>64d3bdcedb3cdc503585e643059619e7</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>eda343c7-12ad-43bd-a65c-31f811138823</ui_id>
@@ -1083,7 +1020,6 @@
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
         <action_type display_value="Update Employee WFH Schedule">9f48e8e41bbc1810fe5476e48d4bcb41</action_type>
         <action_type_parent/>
         <comment/>
@@ -1097,29 +1033,12 @@
         <sys_created_on>2020-05-17 03:47:59</sys_created_on>
         <sys_id>67c7b946db7cdc503585e643059619e2</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>f5d62d99-2911-4aa9-b46d-f464d60066d5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=67c7b946db7cdc503585e643059619e2"/>
-    <sys_element_mapping action="delete_multiple" query="id=67c7b946db7cdc503585e643059619e2"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>wfh_request_record</field>
-        <id>67c7b946db7cdc503585e643059619e2</id>
-        <sys_created_by>james.tandy</sys_created_by>
-        <sys_created_on>2020-05-17 03:47:59</sys_created_on>
-        <sys_id>afc7b946db7cdc503585e643059619e3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>james.tandy</sys_updated_by>
-        <sys_updated_on>2020-05-17 03:47:59</sys_updated_on>
-        <table>var__m_sys_hub_action_input_9f48e8e41bbc1810fe5476e48d4bcb41</table>
-        <value>{{Created_1.current}}</value>
-    </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -1136,11 +1055,7 @@
         <sys_created_on>2020-05-17 03:50:43</sys_created_on>
         <sys_id>6b683986db7cdc503585e64305961979</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>611e441a-29b9-4fd3-8060-8538c96c8ee7</ui_id>
@@ -1229,11 +1144,7 @@
         <sys_created_on>2020-05-17 03:47:59</sys_created_on>
         <sys_id>afc7f946db7cdc503585e6430596190b</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>c7280842-cd89-430a-92bc-ffb0b553c219</ui_id>
@@ -1300,11 +1211,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>68d3bdcedb3cdc503585e643059619ef</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>b236bc87-5872-4360-bf7a-64db694dc963</ui_id>
@@ -1372,11 +1279,7 @@
         <sys_created_on>2020-05-17 03:48:00</sys_created_on>
         <sys_id>afc7f946db7cdc503585e64305961910</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>1c84482e-baa6-4b4d-b6e2-cf2b0228c0af</ui_id>
@@ -1444,11 +1347,7 @@
         <sys_created_on>2020-05-17 03:30:35</sys_created_on>
         <sys_id>ecd3bdcedb3cdc503585e643059619ea</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 03:50:43</sys_updated_on>
         <ui_id>9f77f5a9-a6f5-4f5c-a2c3-eb0370d30441</ui_id>

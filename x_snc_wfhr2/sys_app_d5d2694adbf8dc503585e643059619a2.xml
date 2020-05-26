@@ -40,7 +40,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>wfh_logo.png</file_name>
         <hash>a52751f1e3d1a96bbb1358cc7e3452e30875c8a1722797e98237443f4aa18c41</hash>
         <image_height/>

@@ -65,4 +65,5 @@
         <write_back_action_item display_value="Delete (Work From Home Request)">7854adcadbf8dc503585e64305961903</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
+    <sys_translated_text action="delete_multiple" query="documentkey=7c54adcadbf8dc503585e64305961904"/>
 </record_update>

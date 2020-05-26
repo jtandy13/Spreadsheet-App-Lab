@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
     <sys_sg_master_item action="INSERT_OR_UPDATE">
-        <condition/>
         <condition_order/>
         <datasource_table>x_snc_wfhr2_work_from_home_request</datasource_table>
         <datasource_table_condition/>
         <embedded_screen display_value="Work From Home Request Form Screen">e0546dcadbf8dc503585e643059619fc</embedded_screen>
         <item_view display_value="Work From Home Request List Screen Item View">e0542dcadbf8dc503585e643059619a9</item_view>
         <name>Work From Home Request master_item</name>
-        <screen/>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>james.tandy</sys_created_by>
         <sys_created_on>2020-05-17 02:22:52</sys_created_on>
@@ -20,6 +18,5 @@
         <sys_update_name>sys_sg_master_item_f854adcadbf8dc503585e64305961900</sys_update_name>
         <sys_updated_by>james.tandy</sys_updated_by>
         <sys_updated_on>2020-05-17 02:22:52</sys_updated_on>
-        <table>x_snc_wfhr2_work_from_home_request</table>
     </sys_sg_master_item>
 </record_update>
