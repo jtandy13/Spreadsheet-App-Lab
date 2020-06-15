@@ -39,7 +39,7 @@
     </sys_db_object>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</application>
+        <application display_value="Work From Home Request (GitHub)">d5d2694adbf8dc503585e643059619a2</application>
         <file_path/>
         <instance_id>67862255dbb967000ae3ac44d49619d0</instance_id>
         <instance_name>siapjdev</instance_name>
@@ -72,10 +72,10 @@
         <sys_metadata>ae23e18adbf8dc503585e64305961959</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Wfhr2 1589681867428</sys_name>
-        <sys_package display_value="Work From Home Request" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
+        <sys_package display_value="Work From Home Request (GitHub)" source="x_snc_wfhr2">d5d2694adbf8dc503585e643059619a2</sys_package>
         <sys_parent/>
         <sys_policy/>
-        <sys_scope display_value="Work From Home Request">d5d2694adbf8dc503585e643059619a2</sys_scope>
+        <sys_scope display_value="Work From Home Request (GitHub)">d5d2694adbf8dc503585e643059619a2</sys_scope>
         <sys_scope_delete display_value="">11b68d4d7bf44254a0a2bbd7e205aa90</sys_scope_delete>
         <sys_update_name>sys_db_object_ae23e18adbf8dc503585e64305961959</sys_update_name>
         <sys_update_version display_value="sys_db_object_ae23e18adbf8dc503585e64305961959">7623258adbf8dc503585e64305961935</sys_update_version>
